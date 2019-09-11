@@ -1,0 +1,17 @@
+.App {
+  &__title {
+    
+  }
+  &__chart {
+    display: flex;
+  }
+  &__info {
+    width: 250px;
+    &__table {
+      display: flex;
+    }
+  }
+  &__table {
+    text-align: center;
+  }
+}
